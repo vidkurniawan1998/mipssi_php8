@@ -1,0 +1,6 @@
+CARA INSTALLASI LARAVEL
+1.Download Composer di https://getcomposer.org/
+2.Klik Menu Download
+3.Klik Download and run Composer-Setup.exe
+4.Buka Composer Yang Sudah Didownload
+5.Pilih Next
